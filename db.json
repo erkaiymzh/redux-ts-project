@@ -1,0 +1,25 @@
+{
+  "products": [
+    {
+      "name": "Lipstick by naturegreens",
+      "picture": "https://cdn.dribbble.com/users/31664/screenshots/6510228/lips_2.gif",
+      "price": 300,
+      "description": "Hadmade lipstick by me",
+      "id": 2
+    },
+    {
+      "name": "Lipstick ",
+      "picture": "https://cdn.dribbble.com/users/2242756/screenshots/11599433/media/f91c05d7542bac2156497719387bc18b.gif",
+      "price": 100,
+      "description": "Hadmade lipstick lorem ipsumsfa",
+      "id": 3
+    },
+    {
+      "name": "hghgghgh",
+      "picture": "",
+      "price": 0,
+      "description": "",
+      "id": 4
+    }
+  ]
+}
